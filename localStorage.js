@@ -8,3 +8,6 @@ console.log(name);
 
 // removeItem("key")
 localStorage.removeItem("schoolname");
+
+// clear()
+localStorage.clear();
